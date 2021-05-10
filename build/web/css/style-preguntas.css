@@ -1,0 +1,22 @@
+.contenedor{
+    margin: 20px;
+}
+
+.linea{
+    
+    width: 70%;
+    height: 10px;
+    background-color: #efb810;
+    margin-bottom: 20px;
+
+}
+
+h1{
+    color: #9fb825;
+    text-shadow: 2px 1px 1px #000;
+}
+
+h2{
+    color: #efb810; 
+    text-shadow: 2px 1px 1px #000;
+}

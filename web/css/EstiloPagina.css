@@ -1,0 +1,164 @@
+.content{
+  width: auto;
+  height: auto;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+.caja{
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 2%;
+  margin-top: 0.5%;
+  height: auto;
+  width: auto;
+  padding: 2%;
+  align-items: center;
+
+}
+.contInfo h3{
+  font-family: Edwardian Script ITC;
+  font-size: xx-large;
+  font-weight: bold;
+  color: #efb810;
+  text-align: left;
+}
+.contInfo p{
+  font-family:serif;
+  font-size: medium;
+  text-align: justify;
+}
+
+.imgMision img{
+  float: right;
+  height: 250px;
+  margin-left: 5%;
+  position: static;
+}
+.contMision h3{
+  font-family: Edwardian Script ITC;
+  font-size: xx-large;
+  font-weight: bold;
+  color: #9FB825;
+  text-align: left;
+}
+.contMision p{
+  font-family:serif;
+  font-size: medium;
+  text-align: justify;
+}
+.imgValores img{
+  float: left;
+  height: 320px;
+  margin-right: 5%;
+  position: static;
+}
+.contValores h3{
+  font-family: Edwardian Script ITC;
+  font-size: xx-large;
+  font-weight: bold;
+  color: #efb810;
+  text-align: left;
+}
+.contValores p{
+  font-family:serif;
+  font-size: medium;
+  text-align: justify;
+}
+.negrita{
+  font-family:cursive;
+  font-size: large;
+  text-align: justify;
+  font-weight: bold;
+  color: #efb810;
+}
+.negrita2{
+  font-family:cursive;
+  font-size: large;
+  text-align: justify;
+  font-weight: bold;
+  color: #9FB825;
+}
+.contCaja h3{
+  font-family: Edwardian Script ITC;
+  font-size: xx-large;
+  font-weight: bold;
+  color: #efb810;
+  text-align: left;
+}
+.contCaja h4{
+  font-family: cursive;
+  font-size: medium;
+  font-weight: bold;
+  color: #9FB825;
+  text-align: left;
+}
+.contCaja p{
+  font-family:serif;
+  font-size: medium;
+  text-align: justify;
+}
+.contCaja li{
+  font-family:serif;
+  font-size: medium;
+  text-align: justify;
+}
+.form{
+  width: 35%;
+  height: auto;
+  margin-left: 32.5%;
+  margin-right: 32.5%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  border: solid 1px #EBEDEF;
+  align-items: center;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  padding: 2%;
+}
+
+.form input{
+  width: 90%;
+  height: 27px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.form a{
+  font-weight: bold;
+  font-family: 'Open Sans', sans-serif;
+  color: #0097E8;
+}
+#Boton1{
+  width: 80%;
+  height: 27px;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  padding: 1%;
+  background-color: #0097E8;
+  border: solid 1px #0097E8;
+
+}
+#Boton1 a{
+  font-family: 'Open Sans', sans-serif;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+#Boton2{
+  width: 80%;
+  height: 27px;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  padding: 1%;
+  background-color: grey;
+  border: solid 1px grey;
+}
+#Boton2 a{
+  font-family: 'Open Sans', sans-serif;
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
